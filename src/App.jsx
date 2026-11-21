@@ -182,8 +182,8 @@ export default function App() {
       <header className="site-header">
         <div className="container header-inner">
           <a href="#" className="brand-link">
-            <span className="brand-mark">KW</span>
-            <span className="brand-name">Kōbō Works</span>
+            <span className="brand-mark">US</span>
+            <span className="brand-name">Uperskill Shop</span>
             <span className="brand-origin">EST. 2019 · 35.0116° N</span>
           </a>
 
@@ -689,8 +689,8 @@ export default function App() {
                   marginBottom: '12px',
                 }}
               >
-                <span className="brand-mark">KW</span>
-                <span className="brand-name">Kōbō Works</span>
+                <span className="brand-mark">US</span>
+                <span className="brand-name">Uperskill Shop</span>
               </div>
               <p
                 style={{
@@ -781,7 +781,7 @@ export default function App() {
 
           <div className="footer-bottom">
             <span className="mono">
-              © {new Date().getFullYear()} KŌBŌ WORKS LTD. ALL DIMENSIONS IN
+              © {new Date().getFullYear()} UPERSKILL SHOP. ALL DIMENSIONS IN
               MILLIMETERS.
             </span>
             <span className="mono">BATCH 09 · TOLERANCE ±0.02 MM</span>
